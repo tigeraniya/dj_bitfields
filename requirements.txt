@@ -1,0 +1,5 @@
+
+# Additional requirements go here
+
+django
+psycopg2
