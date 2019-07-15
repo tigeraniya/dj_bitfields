@@ -70,7 +70,7 @@ Credits
 
 Tools used in rendering this package:
 
-*  BitField code is from https://github.com/zacharyvoase/django-postgres which looks abondoned now. 
+*  BitField code is from https://github.com/zacharyvoase/django-postgres which looks abandoned now. 
 lookup operators and set operations are new additions. Also this project is focus on single functionality.
 
 *  Cookiecutter_
